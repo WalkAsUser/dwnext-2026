@@ -58,6 +58,7 @@ export default function Home() {
           >
             Documentation
           </a>
+          <p>How do brown cow</p>
         </div>
       </main>
     </div>
